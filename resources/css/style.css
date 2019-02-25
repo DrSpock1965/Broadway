@@ -3,10 +3,19 @@ body {
 }
 header {
   background-image: url("../the-flatiron-building.png");
+  background-color: gray;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 h1 {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;;
   color: white;
+}
+a {
+  color: white;
+  font-family: Helvetica;
+  font-size: 18px;
 }
